@@ -2,5 +2,6 @@
 {
     public class Duration
     {
+        public Duration() { }
     }
 }
