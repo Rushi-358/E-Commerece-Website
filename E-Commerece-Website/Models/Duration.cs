@@ -2,6 +2,6 @@
 {
     public class Duration
     {
-        public Duration() { }
+        public Duration() { GetHashCode();  }
     }
 }
