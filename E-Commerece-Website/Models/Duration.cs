@@ -2,6 +2,6 @@
 {
     public class Duration
     {
-        public Duration() { GetHashCode();  }
+        public Duration() { GetHashCode("Hellow World");  }
     }
 }
